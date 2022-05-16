@@ -22,7 +22,7 @@ scram b -j 9
 
 # Install Flashgg Final Fit packages
 cd ..
-git clone -b dev_runII_102x git@github.com:cms-analysis/flashggFinalFit.git
+git clone -b HHWWgg_runII_102x https://github.com/zebingwang/flashggFinalFit-v2.git
 cd flashggFinalFit/
 ```
 
