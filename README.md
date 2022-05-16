@@ -22,7 +22,7 @@ scram b -j 9
 
 # Install Flashgg Final Fit packages
 cd ..
-git clone -b HHWWgg_runII_102x https://github.com/zebingwang/flashggFinalFit-v2.git
+git clone -b HZATollgg_UL https://github.com/zebingwang/flashggFinalFit-v2.git
 cd flashggFinalFit/
 ```
 
